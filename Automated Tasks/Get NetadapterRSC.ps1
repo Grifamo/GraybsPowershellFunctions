@@ -1,0 +1,1 @@
+﻿Get-NetAdapterRSC -name wi-fi | Select IPv4Enabled
