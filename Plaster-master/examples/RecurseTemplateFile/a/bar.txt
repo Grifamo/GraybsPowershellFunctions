@@ -1,1 +1,0 @@
-This is bar.txt.  Authored by <%=$PLASTER_PARAM_FullName%>
