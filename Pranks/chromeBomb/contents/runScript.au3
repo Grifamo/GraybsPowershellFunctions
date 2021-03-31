@@ -1,1 +1,0 @@
-Run("C:\install\chrome\launchChrome.bat", "", @SW_HIDE)
